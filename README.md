@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Maahin B. Hasan
+# 👋 Hey, I’m Maahin!
 
 🎯 **Aspiring Developer** | 💡 **Curious Learner** | 🚀 **Exploring the Tech Universe**
 
@@ -31,7 +31,7 @@
 ---
 
 ## 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-MaahinBHasan-181717?style=for-the-badge&logo=github)](https://github.com/maahin-codes)
+[![GitHub](https://img.shields.io/badge/GitHub-MaahinHasan-181717?style=for-the-badge&logo=github)](https://github.com/maahin-codes)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maahin.hasan2101@gmail.com)
 
 
